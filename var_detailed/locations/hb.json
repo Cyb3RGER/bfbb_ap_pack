@@ -197,8 +197,7 @@
                     }
                 ],
                 "access_rules": [
-                    "spat:40, bubble_bowl",
-                    "spat:40, $not_include_skills, @hb/Poseidome"
+                    "@hb/Industrial Park"
                 ],
                 "sections": [
                     {
