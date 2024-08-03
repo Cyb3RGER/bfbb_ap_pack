@@ -3,7 +3,7 @@
         {
             "package_version": "1.1.5",
             "download_url": "https://github.com/Cyb3RGER/bfbb_ap_pack/releases/download/v1.1.5/bfbb_ap_pack-v1_1_5.zip",
-            "sha256": "7f426479302076d5e3ec37f42a554707b4f1bb809517fc2130363b89be723fbd",
+            "sha256": "e0e4eac2876a6408c6b951b25bbbeead022112e51071c1ad2e75613a4fea8d1d",
             "changelog": [
                 "Fixed \"A Wall Jump in the Bucket\" access in detailed variant"                
             ]
