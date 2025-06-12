@@ -5,6 +5,7 @@
     "package_uid": "bfbb_ap_pack",
     "platform": "ngc",
     "author": "Cyb3R",
+    "target_poptracker_version": "0.32.0",
     "variants": {
         "standard": {
             "display_name": "Map Tracker",
