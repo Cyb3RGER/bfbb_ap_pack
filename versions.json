@@ -1,6 +1,16 @@
 {
     "versions": [
         {
+            "package_version": "1.2.0",
+            "download_url": "https://github.com/Cyb3RGER/bfbb_ap_pack/releases/download/v1.2.0/bfbb_ap_pack-v1_2_0.zip",
+            "sha256": "fd7523f02b545452b2ee2e03f362f181aeeb828104b1193b2ec5ec7b9a3d3c78",
+            "changelog": [
+                "Added hint tracking (highlights hinted location based on hint status)",
+                "Added a setting to toggle automatic tab switching",
+                "Compressed images"
+            ]
+        },
+        {
             "package_version": "1.1.5",
             "download_url": "https://github.com/Cyb3RGER/bfbb_ap_pack/releases/download/v1.1.5/bfbb_ap_pack-v1_1_5.zip",
             "sha256": "e0e4eac2876a6408c6b951b25bbbeead022112e51071c1ad2e75613a4fea8d1d",
