@@ -3,5 +3,7 @@ todo.*
 *.xcf
 __pycache__
 *.py
+!gen/*.py
 *.webp
 images/maps/src/
+.idea
