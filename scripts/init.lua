@@ -17,6 +17,7 @@ ScriptHost:LoadScript("scripts/logic/logic.lua")
 
 -- Items
 Tracker:AddItems("items/items.json")
+Tracker:AddItems("items/settings.json")
 
 if not IS_ITEMS_ONLY then
     -- Maps
@@ -44,6 +45,7 @@ end
 
 -- Layout
 Tracker:AddLayouts("layouts/items.json")
+Tracker:AddLayouts("layouts/settings.json")
 Tracker:AddLayouts("layouts/tracker.json")
 Tracker:AddLayouts("layouts/broadcast.json")
 

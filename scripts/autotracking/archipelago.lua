@@ -186,6 +186,9 @@ function onDataStorageUpdate(key, value, old_value)
         if not IS_DETAILED then
             return
         end
+        if Tracker:FindObjectForCode("auto_tab").CurrentStage == 0 then
+            return
+        end
         local maps = MAP_MAPPING[value]
         if not maps then
             return
